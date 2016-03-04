@@ -3,6 +3,7 @@ ruby '2.2.3'
 #ruby-gemset=railstutorial_rails_4_0
 
 gem 'rails', '4.2.4'
+gem 'bootstrap-sass', '3.3.6'
 
 group :development, :test do
   gem 'sqlite3', '1.3.11'
